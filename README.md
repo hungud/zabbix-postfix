@@ -1,7 +1,10 @@
 # zabbix-postfix-exim
 
-- Postfix monitoring and integration with Zabbix
-- Exim monitoring and integration with Zabbix
+> Postfix monitoring and integration with Zabbix
+- [zabbix postfix](Postfix/README.md)
+
+> Exim monitoring and integration with Zabbix
+- [zabbix exim](Exim/README.md)
 
 # Notice: you need open firewall of zabbix server
 
